@@ -6,4 +6,4 @@
 1c0-14c-11f-11d-127-1b8-193-1f2-190-12f-19d-1cb-146-169-17e-17c : Denta (NORMAL) : Denta#9991
 1d2-1a8-1a9-1b6-1eb-16f-1e1-1e4-12f-18a-198-1cf-16e-18d-167-16e : Yeevan (NORMAL) : Yeevan#6947
 1b7-18e-17e-19a-110-153-186-125-11d-1ae-191-13d-1c1-190-1d4-10a : yeahyeahyeahyeah (NORMAL) : yeahyeahyeahyeah#8642
-171-186-1a1-1ba-1e7-1a4-129-115-16a-142-169-171-1cb-1fe-175-14d : Shepherd_Strike (NORMAL) : Shepherd_Strike#1456
+171-186-1a1-1ba-1e7-1a4-129-1f5-16a-142-169-171-1cb-1fe-175-14d : Shepherd_Strike (NORMAL) : Shepherd_Strike#1456
