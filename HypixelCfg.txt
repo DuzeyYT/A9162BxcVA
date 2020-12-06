@@ -92,7 +92,7 @@ Jesus Mode:Jesus:walk:true
 TP Mode:DeathTeleport:Horizon:false
 Ground:Strafe:false:false
 Air:Strafe:true:false
-Design:ClickGUI:new:false
+Design:ClickGUI:JellyLike:false
 Sound:ClickGUI:false:false
 Shader:ClickGUI:true:false
 Outline:ClickGUI:false:false
