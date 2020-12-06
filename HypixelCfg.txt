@@ -1,13 +1,217 @@
-asdasd
-asdasdgdfgh
-fgh
-fgh
-df
-sda
-f
-as
-da
-sd
-ew
-fsd
-f
+FastAttack Mode:Killaura:Packet:true
+AutoBlock Mode:Killaura:Cubecraft:true
+KeepSprint Mode:Killaura:Packet:true
+Target Mode:Killaura:Closest:true
+Rotation Mode:Killaura:Normal:true
+Killaura Mode:Killaura:NCP:true
+Range:Killaura:4.25:true
+Min CPS:Killaura:7.0:true
+Max CPS:Killaura:14.0:true
+Crack Size:Killaura:5.0:true
+AutoBlock Ticks:Killaura:3.0:true
+Existed:Killaura:30.0:true
+FOV:Killaura:360.0:true
+RayCast:Killaura:true:true
+FastAttack:Killaura:false:true
+Unblock:Killaura:false:true
+Disable Sprint:Killaura:false:true
+Auto Speed:Killaura:false:true
+Through Walls:Killaura:false:true
+NoSwing:Killaura:false:true
+AttackInfo:Killaura:true:true
+KeepSprint:Killaura:true:true
+Lock view:Killaura:false:true
+AutoBlock:Killaura:true:true
+Invisibles:Killaura:false:true
+Players:Killaura:true:true
+Animals:Killaura:false:true
+Monsters:Killaura:true:true
+Villagers:Killaura:false:true
+Teams:Killaura:false:true
+Alert:NoRotationSet:false:false
+AntiBot Mode:AntiBot:Watchdog:true
+Mineplex Ticks:AntiBot:1.0:true
+InvOpen:AutoArmor:false:true
+Criticals Mode:Criticals:Packet:false
+Velocity Mode:Velocity:Cancel:true
+Horizontal:Velocity:100.0:true
+Vertical:Velocity:10.0:true
+FastBow Mode:FastBow:Packet:false
+TPAura Players:TPAura:true:false
+TPAura Animals:TPAura:false:false
+TPAura Invisibles:TPAura:false:false
+TPAura Reach:TPAura:60.0:false
+TPAura CPS:TPAura:1.0:false
+Max Targets:TPAura:1.0:false
+Backwards:Sprint:false:true
+Cubecraft Mode:Fly:New:false
+Fly Mode:Fly:watchdogfast:false
+CubecraftTP Speed:Fly:2.5:false
+(Fast) Timer After DMG:Fly:0.23:false
+(Fast) Timer Before DMG:Fly:0.15:false
+(Fast) Speed:Fly:3.5:false
+(Fast) Up on Start:Fly:true:false
+(Fast) Damage:Fly:true:false
+(Old) Cubecraft Strafe:Fly:true:false
+(Old) Cubecraft Fast2:Fly:false:false
+(Old) Cubecraft Fast:Fly:false:false
+Disable on Flag:Fly:false:false
+AirWalk:Fly:false:false
+Step Mode:Step:AACOld:false
+Horizon Height:Step:8.0:false
+NCP Boost:Step:false:false
+LongJump Mode:LongJump:Horizon:false
+Cubecraft Fast2:LongJump:true:false
+Cubecraft Fast:LongJump:true:false
+(Horizon) Use Disabler:LongJump:true:false
+Air Walk:LongJump:false:false
+Speed Mode:Speed:Strafe:false
+CubecraftTP Speed:Speed:2.3:false
+PlayMC Ground:Speed:false:false
+NCP Boost:Speed:true:false
+Phase Mode:Phase:Cubecraft:false
+Spider Mode:Spider:ACR:false
+Block Rotation:AirStuck:true:false
+AntiVanilla:AirStuck:true:false
+NoSlowDown Mode:NoSlowDown:NCP:true
+Packet:NoSlowDown:true:true
+Only ClickGUI:InvMove:false:true
+FastLadder Mode:FastLadder:Teleport:false
+Vanilla Speed:FastLadder:0.3511627906976744:false
+TP Speed:FastLadder:0.0:false
+IceSpeed Mode:IceSpeed:jump:false
+Max Boost:IceSpeed:2.5:false
+Boost Speed:IceSpeed:0.1:false
+Jump Ticks:IceSpeed:2.0:false
+SlimeJump Mode:SlimeJump:Horizon:false
+Clipper Mode:Clipper:Cubecraft:false
+Clipper Height:Clipper:3.0:false
+AntiVoid Mode:AntiVoid:cubecraft:false
+Fall Distance:AntiVoid:2.0:false
+Jesus Mode:Jesus:walk:true
+TP Mode:DeathTeleport:Horizon:false
+Ground:Strafe:false:false
+Air:Strafe:true:false
+Design:ClickGUI:new:false
+Sound:ClickGUI:false:false
+Shader:ClickGUI:true:false
+Outline:ClickGUI:false:false
+Background Rainbow:ClickGUI:true:false
+GuiRed:ClickGUI:255.0:false
+GuiGreen:ClickGUI:0.0:false
+GuiBlue:ClickGUI:255.0:false
+ESP Mode:ESP:none:true
+Throughwalls:ESP:false:true
+NameTags:ESP:true:true
+NameTag Health:ESP:false:true
+No NameTag on AttackInfo:ESP:false:true
+ShaderESP:ESP:true:true
+ChestESP:ESP:false:true
+Box:ESP:false:true
+ShaderESP Thickness:ESP:3.0:true
+ShaderESP Red:ESP:255.0:true
+ShaderESP Green:ESP:0.0:true
+ShaderESP Blue:ESP:100.0:true
+HUD Mode:HUD:New:true
+Rainbow Name:HUD:false:true
+Rainbow Arraylist:HUD:true:true
+Notifications:HUD:true:true
+Early Access:HUD:false:true
+Position:HUD:true:true
+Hotbar:HUD:true:true
+Logo:HUD:true:true
+Date:HUD:true:true
+FPS:HUD:true:true
+Protect Yourself:NameProtect:false:true
+Protect Friends:NameProtect:false:true
+Show Client Users:NameProtect:true:true
+High Items:ItemRenderer:false:true
+Use Item Size:ItemRenderer:true:true
+Item Size:ItemRenderer:1.0:true
+Blockhit Animation:Animations:1.7.10:true
+Slowdown:Animations:6.0:true
+Use Slowdown:Animations:true:true
+SwingAnimation:Animations:true:true
+y-Positon:Scoreboard:122.0:true
+Left:Scoreboard:false:true
+On Module enable:Notifications:false:false
+On Module disable:Notifications:false:false
+On AutoPlay new round:Notifications:true:false
+Time Mode:DayTime:night:false
+X:Indicator:9.0:true
+Y:Indicator:200.0:true
+TabGui Mode:TabGui:rise:true
+X:TabGui:9.0:true
+Y:TabGui:74.0:true
+Nofall Mode:NoFall:packet:false
+FastUse Mode:FastUse:NCP:false
+OpenInv:InvCleaner:false:true
+Block Stacks:InvCleaner:10.0:true
+Delay:InvCleaner:80.0:true
+SortInventory:InvCleaner:false:true
+Close when Empty:ChestStealer:true:true
+Delay:ChestStealer:130.0:true
+ChestAura Range:ChestAura:5.0:false
+ChestAura Delay:ChestAura:5.0:false
+Random Speed:FastHeal:false:false
+Radius:Fucker:6.0:false
+Rotations:Fucker:false:false
+Instant:Fucker:true:false
+Eggs:Fucker:true:false
+Delay:Spammer:20.0:false
+Bypass:Spammer:true:false
+Scaffold Mode:Scaffold:cubecraft:false
+ScaffoldTower Mode:Scaffold:None:false
+Delay:Scaffold:0.0:false
+KeepRotations:Scaffold:true:false
+Block Number:Scaffold:true:false
+Keep Sprint:Scaffold:true:false
+SafeWalk:Scaffold:true:false
+FastStop:Scaffold:false:false
+Silent:Scaffold:false:false
+NoSwing:Scaffold:true:false
+Jitter:Scaffold:true:false
+Tower:Scaffold:false:false
+Eagle:Scaffold:false:false
+Draw:Scaffold:false:false
+Blink mode:Blink:HorizonFlag:false
+Tower Mode:Tower:AAC:false
+Block Number:Tower:true:false
+Disabler Mode:Disabler:Horizon:false
+(Horizon) Rotation Fix:Disabler:true:false
+ACR - Fly:Disabler:false:false
+ACROld - Movement:Disabler:false:false
+StaffDetector Mode:StaffDetector:PlayMC:true
+Draw under Crosshair:StaffDetector:true:true
+Crasher Mode:ServerCrasher:playmc:false
+Packets:ServerCrasher:1.0:false
+FastAttack Mode:Killaura:Packet:false
+AutoBlock Mode:Killaura:Cubecraft:false
+KeepSprint Mode:Killaura:Packet:false
+Target Mode:Killaura:Closest:false
+Rotation Mode:Killaura:Normal:false
+Killaura Mode:Killaura:NCP:false
+Range:Killaura:4.3:false
+Min CPS:Killaura:7.0:false
+Max CPS:Killaura:14.0:false
+Crack Size:Killaura:5.0:false
+AutoBlock Ticks:Killaura:3.0:false
+Existed:Killaura:30.0:false
+FOV:Killaura:360.0:false
+RayCast:Killaura:true:false
+FastAttack:Killaura:false:false
+Unblock:Killaura:false:false
+Disable Sprint:Killaura:true:false
+Auto Speed:Killaura:false:false
+Through Walls:Killaura:true:false
+NoSwing:Killaura:true:false
+AttackInfo:Killaura:true:false
+KeepSprint:Killaura:true:false
+Lock view:Killaura:false:false
+AutoBlock:Killaura:true:false
+Invisibles:Killaura:false:false
+Players:Killaura:true:false
+Animals:Killaura:false:false
+Monsters:Killaura:false:false
+Villagers:Killaura:true:false
+Teams:Killaura:true:false
