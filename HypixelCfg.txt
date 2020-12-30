@@ -166,11 +166,11 @@ AutoPlay Mode:AutoPlay:hypixel insane:true
 Sound:AutoPlay:true:true
 Tower Mode:Tower:AAC:false
 Block Number:Tower:false:false
-Online Config:PlayMC:false:false
-Online Config:HiveMC:false:false
-Online Config:Hypixel:false:false
+Online Config:PlayMC:true:false
+Online Config:HiveMC:true:false
+Online Config:Hypixel:true:false
 Online Config:Mineplex:true:false
-Online Config:MCCentral:false:false
+Online Config:MCCentral:true:false
 Disabler Mode:Disabler:watchdog:true
 (Horizon) Rotation Fix:Disabler:true:true
 ACR - Fly:Disabler:false:true
