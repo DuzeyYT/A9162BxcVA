@@ -1,50 +1,23 @@
-FastAttack Mode:Killaura:Packet:true
-AutoBlock Mode:Killaura:Cubecraft:true
-KeepSprint Mode:Killaura:Packet:true
-Target Mode:Killaura:Closest:true
-Rotation Mode:Killaura:Normal:true
-Killaura Mode:Killaura:NCP:true
-Range:Killaura:4.25:true
-Min CPS:Killaura:7.0:true
-Max CPS:Killaura:14.0:true
-Crack Size:Killaura:5.0:true
-AutoBlock Ticks:Killaura:3.0:true
-Existed:Killaura:30.0:true
-FOV:Killaura:360.0:true
-RayCast:Killaura:true:true
-FastAttack:Killaura:false:true
-Unblock:Killaura:false:true
-Disable Sprint:Killaura:false:true
-Auto Speed:Killaura:false:true
-Through Walls:Killaura:false:true
-NoSwing:Killaura:false:true
-AttackInfo:Killaura:true:true
-KeepSprint:Killaura:true:true
-Lock view:Killaura:false:true
-AutoBlock:Killaura:true:true
-Invisibles:Killaura:false:true
-Players:Killaura:true:true
-Animals:Killaura:false:true
-Monsters:Killaura:true:true
-Villagers:Killaura:false:true
-Teams:Killaura:false:true
 Alert:NoRotationSet:false:false
 AntiBot Mode:AntiBot:Watchdog:true
-Mineplex Ticks:AntiBot:1.0:true
+Mineplex Ticks:AntiBot:30.0:true
 InvOpen:AutoArmor:false:true
 Criticals Mode:Criticals:Packet:false
-Velocity Mode:Velocity:Cancel:true
-Horizontal:Velocity:100.0:true
-Vertical:Velocity:10.0:true
+Velocity Mode:Velocity:cancel:true
+Horizontal:Velocity:0.0:true
+Vertical:Velocity:0.0:true
 FastBow Mode:FastBow:Packet:false
 TPAura Players:TPAura:true:false
 TPAura Animals:TPAura:false:false
 TPAura Invisibles:TPAura:false:false
-TPAura Reach:TPAura:60.0:false
-TPAura CPS:TPAura:1.0:false
-Max Targets:TPAura:1.0:false
+TPAura Reach:TPAura:50.0:false
+TPAura CPS:TPAura:3.0:false
+Max Targets:TPAura:2.0:false
+Random sorting:Killsults:true:false
+Random ending:Killsults:true:false
+Enemy Name:Killsults:true:false
 Backwards:Sprint:false:true
-Cubecraft Mode:Fly:New:false
+Cubecraft Mode:Fly:fast:false
 Fly Mode:Fly:watchdogfast:false
 CubecraftTP Speed:Fly:2.5:false
 (Fast) Timer After DMG:Fly:0.23:false
@@ -55,112 +28,126 @@ CubecraftTP Speed:Fly:2.5:false
 (Old) Cubecraft Strafe:Fly:true:false
 (Old) Cubecraft Fast2:Fly:false:false
 (Old) Cubecraft Fast:Fly:false:false
+(Watchdog) Boost:Fly:true:false
+(Watchdog) Blink:Fly:false:false
+(Watchdog) Damage:Fly:true:false
+(Watchdog Boost) Wait for DMG:Fly:false:false
 Disable on Flag:Fly:false:false
 AirWalk:Fly:false:false
-Step Mode:Step:AACOld:false
-Horizon Height:Step:8.0:false
-NCP Boost:Step:false:false
-LongJump Mode:LongJump:Horizon:false
-Cubecraft Fast2:LongJump:true:false
-Cubecraft Fast:LongJump:true:false
+Step Mode:Step:ncp:false
+Horizon Height:Step:2.0:false
+NCP Boost:Step:true:false
+LongJump Mode:LongJump:watchdog:false
+Cubecraft Fast2:LongJump:false:false
+Cubecraft Fast:LongJump:false:false
 (Horizon) Use Disabler:LongJump:true:false
+(Watchdog) Faster With Speed Pot:LongJump:false:false
 Air Walk:LongJump:false:false
-Speed Mode:Speed:Strafe:false
+Vanilla Mode:Speed:bhop:false
+Speed Mode:Speed:strafe:false
 CubecraftTP Speed:Speed:2.3:false
+Jump Radius:Speed:2.75:false
+Auto Jump:Speed:false:false
 PlayMC Ground:Speed:false:false
-NCP Boost:Speed:true:false
-Phase Mode:Phase:Cubecraft:false
-Spider Mode:Spider:ACR:false
-Block Rotation:AirStuck:true:false
-AntiVanilla:AirStuck:true:false
+NCP Boost:Speed:false:false
+Phase Mode:Phase:Vanilla:false
+Spider Mode:Spider:acr:false
+Block Rotation:AirStuck:false:false
+AntiVanilla:AirStuck:false:false
 NoSlowDown Mode:NoSlowDown:NCP:true
 Packet:NoSlowDown:true:true
 Only ClickGUI:InvMove:false:true
-FastLadder Mode:FastLadder:Teleport:false
-Vanilla Speed:FastLadder:0.3511627906976744:false
-TP Speed:FastLadder:0.0:false
-IceSpeed Mode:IceSpeed:jump:false
+Teleport Mode:Teleport:cubecraft:false
+Cubecraft Packets:Teleport:75.0:false
+FastLadder Mode:FastLadder:Vanilla:false
+Vanilla Speed:FastLadder:0.3:false
+TP Speed:FastLadder:2.0:false
+IceSpeed Mode:IceSpeed:Boost:false
 Max Boost:IceSpeed:2.5:false
 Boost Speed:IceSpeed:0.1:false
-Jump Ticks:IceSpeed:2.0:false
+Jump Ticks:IceSpeed:4.0:false
 SlimeJump Mode:SlimeJump:Horizon:false
 Clipper Mode:Clipper:Cubecraft:false
 Clipper Height:Clipper:3.0:false
 AntiVoid Mode:AntiVoid:cubecraft:false
-Fall Distance:AntiVoid:2.0:false
-Jesus Mode:Jesus:walk:true
+Fall Distance:AntiVoid:1.0:false
+Jesus Mode:Jesus:ncp:true
 TP Mode:DeathTeleport:Horizon:false
 Ground:Strafe:false:false
 Air:Strafe:true:false
-Design:ClickGUI:JellyLike:false
+HighJump Mode:HighJump:Horizon:false
+Auto Disable:HighJump:true:false
+Design:ClickGUI:New:false
 Sound:ClickGUI:false:false
-Shader:ClickGUI:true:false
+Shader:ClickGUI:false:false
 Outline:ClickGUI:false:false
 Background Rainbow:ClickGUI:true:false
 GuiRed:ClickGUI:255.0:false
-GuiGreen:ClickGUI:0.0:false
-GuiBlue:ClickGUI:255.0:false
-ESP Mode:ESP:none:true
-Throughwalls:ESP:false:true
-NameTags:ESP:true:true
-NameTag Health:ESP:false:true
-No NameTag on AttackInfo:ESP:false:true
-ShaderESP:ESP:true:true
-ChestESP:ESP:false:true
-Box:ESP:false:true
-ShaderESP Thickness:ESP:3.0:true
-ShaderESP Red:ESP:255.0:true
-ShaderESP Green:ESP:0.0:true
-ShaderESP Blue:ESP:100.0:true
-HUD Mode:HUD:New:true
+GuiGreen:ClickGUI:26.0:false
+GuiBlue:ClickGUI:42.0:false
+ESP Mode:ESP:2D:false
+Throughwalls:ESP:false:false
+NameTags:ESP:true:false
+NameTag Health:ESP:false:false
+No NameTag on AttackInfo:ESP:false:false
+ShaderESP:ESP:false:false
+ChestESP:ESP:false:false
+Box:ESP:false:false
+ShaderESP Thickness:ESP:3.0:false
+ShaderESP Red:ESP:255.0:false
+ShaderESP Green:ESP:0.0:false
+ShaderESP Blue:ESP:98.0:false
+HUD Mode:HUD:new2:true
 Rainbow Name:HUD:false:true
 Rainbow Arraylist:HUD:true:true
 Notifications:HUD:true:true
+Build Version:HUD:true:true
 Early Access:HUD:false:true
 Position:HUD:true:true
 Hotbar:HUD:true:true
 Logo:HUD:true:true
 Date:HUD:true:true
 FPS:HUD:true:true
-Protect Yourself:NameProtect:false:true
-Protect Friends:NameProtect:false:true
-Show Client Users:NameProtect:true:true
-High Items:ItemRenderer:false:true
-Use Item Size:ItemRenderer:true:true
-Item Size:ItemRenderer:1.0:true
-Blockhit Animation:Animations:1.7.10:true
-Slowdown:Animations:6.0:true
+Protect Yourself:NameProtect:true:false
+Protect Friends:NameProtect:true:false
+Show Client Users:NameProtect:true:false
+High Items:ItemRenderer:false:false
+Use Item Size:ItemRenderer:true:false
+Item Size:ItemRenderer:1.0:false
+Blockhit Animation:Animations:other:true
+Slowdown:Animations:20.0:true
 Use Slowdown:Animations:true:true
-SwingAnimation:Animations:true:true
-y-Positon:Scoreboard:122.0:true
+SwingAnimation:Animations:false:true
+y-Positon:Scoreboard:120.0:true
 Left:Scoreboard:false:true
-On Module enable:Notifications:false:false
-On Module disable:Notifications:false:false
+On Module enable:Notifications:true:false
+On Module disable:Notifications:true:false
 On AutoPlay new round:Notifications:true:false
-Time Mode:DayTime:night:false
-X:Indicator:9.0:true
-Y:Indicator:200.0:true
-TabGui Mode:TabGui:rise:true
-X:TabGui:9.0:true
-Y:TabGui:74.0:true
-Nofall Mode:NoFall:packet:false
-FastUse Mode:FastUse:NCP:false
+Bottom Line:Notifications:true:false
+Time Mode:DayTime:Night:false
+X:Indicator:8.0:false
+Y:Indicator:180.0:false
+TabGui Mode:TabGui:new:false
+X:TabGui:9.0:false
+Y:TabGui:37.0:false
+Nofall Mode:NoFall:Vanilla:true
+FastUse Mode:FastUse:Instant:false
 OpenInv:InvCleaner:false:true
-Block Stacks:InvCleaner:10.0:true
-Delay:InvCleaner:80.0:true
+Block Stacks:InvCleaner:3.0:true
+Delay:InvCleaner:87.0:true
 SortInventory:InvCleaner:false:true
 Close when Empty:ChestStealer:true:true
-Delay:ChestStealer:130.0:true
+Delay:ChestStealer:116.0:true
 ChestAura Range:ChestAura:5.0:false
-ChestAura Delay:ChestAura:5.0:false
+ChestAura Delay:ChestAura:2.0:false
 Random Speed:FastHeal:false:false
-Radius:Fucker:6.0:false
-Rotations:Fucker:false:false
+Radius:Fucker:4.0:false
+Rotations:Fucker:true:false
 Instant:Fucker:true:false
 Eggs:Fucker:true:false
 Delay:Spammer:20.0:false
 Bypass:Spammer:true:false
-Scaffold Mode:Scaffold:cubecraft:false
+Scaffold Mode:Scaffold:hypixel:false
 ScaffoldTower Mode:Scaffold:None:false
 Delay:Scaffold:0.0:false
 KeepRotations:Scaffold:true:false
@@ -168,22 +155,29 @@ Block Number:Scaffold:true:false
 Keep Sprint:Scaffold:true:false
 SafeWalk:Scaffold:true:false
 FastStop:Scaffold:false:false
-Silent:Scaffold:false:false
+Silent:Scaffold:true:false
 NoSwing:Scaffold:true:false
-Jitter:Scaffold:true:false
+Jitter:Scaffold:false:false
 Tower:Scaffold:false:false
 Eagle:Scaffold:false:false
 Draw:Scaffold:false:false
 Blink mode:Blink:HorizonFlag:false
+AutoPlay Mode:AutoPlay:hypixel insane:true
+Sound:AutoPlay:true:true
 Tower Mode:Tower:AAC:false
-Block Number:Tower:true:false
-Disabler Mode:Disabler:Horizon:false
-(Horizon) Rotation Fix:Disabler:true:false
-ACR - Fly:Disabler:false:false
-ACROld - Movement:Disabler:false:false
-StaffDetector Mode:StaffDetector:PlayMC:true
-Draw under Crosshair:StaffDetector:true:true
-Crasher Mode:ServerCrasher:playmc:false
+Block Number:Tower:false:false
+Online Config:PlayMC:false:false
+Online Config:HiveMC:false:false
+Online Config:Hypixel:false:false
+Online Config:Mineplex:true:false
+Online Config:MCCentral:false:false
+Disabler Mode:Disabler:watchdog:true
+(Horizon) Rotation Fix:Disabler:true:true
+ACR - Fly:Disabler:false:true
+ACROld - Movement:Disabler:true:true
+StaffDetector Mode:StaffDetector:PlayMC:false
+Draw under Crosshair:StaffDetector:true:false
+Crasher Mode:ServerCrasher:PlayMC:false
 Packets:ServerCrasher:1.0:false
 FastAttack Mode:Killaura:Packet:false
 AutoBlock Mode:Killaura:Cubecraft:false
@@ -198,13 +192,15 @@ Crack Size:Killaura:5.0:false
 AutoBlock Ticks:Killaura:3.0:false
 Existed:Killaura:30.0:false
 FOV:Killaura:360.0:false
+Show Rotations:Killaura:true:false
+Rotations:Killaura:true:false
 RayCast:Killaura:true:false
 FastAttack:Killaura:false:false
 Unblock:Killaura:false:false
-Disable Sprint:Killaura:true:false
+Disable Sprint:Killaura:false:false
 Auto Speed:Killaura:false:false
-Through Walls:Killaura:true:false
-NoSwing:Killaura:true:false
+Through Walls:Killaura:false:false
+NoSwing:Killaura:false:false
 AttackInfo:Killaura:true:false
 KeepSprint:Killaura:true:false
 Lock view:Killaura:false:false
@@ -214,4 +210,5 @@ Players:Killaura:true:false
 Animals:Killaura:false:false
 Monsters:Killaura:false:false
 Villagers:Killaura:true:false
-Teams:Killaura:true:false
+Teams:Killaura:false:false
+#loadmessage:true
