@@ -1,0 +1,297 @@
+Alert:NoRotationSet:false:false
+Killaura Mode:Killaura:aac:false
+AutoBlock Mode:Killaura:fake:false
+Rotation Mode:Killaura:static:false
+Attack Mode:Killaura:click mouse:false
+Jitter Rotation Strength Yaw:Killaura:0.2481012658227848:false
+Jitter Rotation Strength Pitch:Killaura:0.25365853658536586:false
+Rotation Smooth Value:Killaura:1.0:false
+AutoBlock Range:Killaura:4.116037735849057:false
+Killaura Range:Killaura:4.098888888888889:false
+TPAura Range:Killaura:6.0:false
+Aura Min CPS:Killaura:7.0:false
+Aura Max CPS:Killaura:14.0:false
+Rotation Smooth Client:Killaura:true:false
+Rotation Smooth Server:Killaura:true:false
+Killaura Walls:Killaura:true:false
+Aura AutoBlock:Killaura:false:false
+No Swing:Killaura:true:false
+Correct Movement:Killaura:true:false
+GCD Fix:Killaura:true:false
+RayCast:Killaura:true:false
+Disable Sprint:Killaura:false:false
+Fast Attack:Killaura:false:false
+Lock View:Killaura:false:false
+Packet Fix:Killaura:true:false
+Players:Killaura:true:false
+Animals:Killaura:false:false
+Monsters:Killaura:false:false
+Villagers:Killaura:true:false
+Invisibles:Killaura:false:false
+Teams:Killaura:false:false
+AntiBot Mode:AntiBot:mineplex:false
+Mineplex Ticks:AntiBot:21.0:false
+(Watchdog) Anti-StaffBot:AntiBot:false:false
+Remove Bots:AntiBot:true:false
+InvOpen:AutoArmor:true:true
+Delay:AutoArmor:203.0:true
+Criticals Mode:Criticals:packet:false
+Velocity Mode:Velocity:vanilla:false
+Horizontal:Velocity:0.0:false
+Vertical:Velocity:0.0:false
+(Reverse) Strength:Velocity:0.3974576271186441:false
+(Reverse) Jump:Velocity:true:false
+(Reverse) Cancel Velocity:Velocity:false:false
+FastBow Mode:FastBow:Packet:false
+TPAura Players:TPAura:true:false
+TPAura Animals:TPAura:false:false
+TPAura Invisibles:TPAura:false:false
+TPAura Reach:TPAura:50.0:false
+TPAura CPS:TPAura:3.0:false
+Max Targets:TPAura:3.0:false
+Random sorting:Killsults:true:false
+Random ending:Killsults:false:false
+TargetESP Mode:TargetESP:normal:true
+Roundings:TargetESP:5.0:true
+Radius:TargetESP:0.6744186046511627:true
+(Color) Red:TargetESP:255.0:true
+(Color) Green:TargetESP:255.0:true
+(Color) Blue:TargetESP:255.0:true
+Rainbow:TargetESP:false:true
+What tha hell?:TargetESP:false:true
+Yaw Mode:AntiAim:jitter:false
+Pitch Mode:AntiAim:none:false
+(Static) Angle:AntiAim:180.0:false
+(Jitter) Strength:AntiAim:155.0:false
+Server-Sided:AntiAim:true:false
+Backwards:Sprint:false:true
+WatchdogBoost Mode:Fly:toggle:false
+Watchdog Mode:Fly:Custom:false
+Cubecraft Mode:Fly:safe:false
+Fly Mode:Fly:cubecraft new:false
+(Watchdog) Speed:Fly:1.0462962962962963:false
+(Watchdog) Timer:Fly:0.9048076923076924:false
+(Watchdog) Wait For Damage:Fly:true:false
+(Watchdog) Boost every 2 toggles:Fly:false:false
+(Watchdog) Boost:Fly:true:false
+CubecraftTP Speed:Fly:1.916379310344828:false
+(Fast) Timer After DMG:Fly:0.21:false
+(Fast) Timer Before DMG:Fly:0.13:false
+(Fast) Speed:Fly:2.5:false
+(Fast) Up on Start:Fly:true:false
+(Fast) Damage:Fly:false:false
+(Old) Cubecraft Strafe:Fly:true:false
+(Old) Cubecraft Fast2:Fly:false:false
+(Old) Cubecraft Fast:Fly:false:false
+(Cubecraft) Speed:Fly:1.25:false
+(Cubecraft) Rapid Stop Speed:Fly:0.35:false
+(Cubecraft) Timer:Fly:1.0:false
+(Cubecraft) Wait for Damage:Fly:true:false
+(Cubecraft) Rapid Stop:Fly:true:false
+(Cubecraft) Fast:Fly:false:false
+Disable on Flag:Fly:false:false
+AirWalk:Fly:false:false
+Step Mode:Step:vanilla:false
+Horizon Height:Step:2.0:false
+NCP Boost:Step:true:false
+LongJump Mode:LongJump:cubecraft:false
+Vanilla Speed:LongJump:0.49883720930232567:false
+Cubecraft Fast2:LongJump:false:false
+Cubecraft Fast:LongJump:false:false
+(Horizon) Use Disabler:LongJump:false:false
+(Watchdog) Faster With Speed Pot:LongJump:false:false
+Air Walk:LongJump:false:false
+Vanilla Mode:Speed:legit:false
+Mineplex Mode:Speed:LowHop:false
+Speed Mode:Speed:cubecraft:false
+CubecraftTP Speed:Speed:1.8181818181818183:false
+Jump Radius:Speed:1.0:false
+Mineplex Boost Speed:Speed:3.0454545454545454:false
+InTrouble Port To Player2:Speed:false:false
+InTrouble Port To Player:Speed:true:false
+InTrouble Port When Low:Speed:false:false
+InTrouble Port Up2:Speed:false:false
+InTrouble Port Up:Speed:true:false
+InTrouble Break:Speed:true:false
+InTrouble Break2:Speed:true:false
+InTrouble Safe:Speed:true:false
+Mineplex Boost:Speed:false:false
+Auto Jump:Speed:false:false
+PlayMC Ground:Speed:false:false
+NCP Boost:Speed:false:false
+Phase Mode:Phase:vanilla:false
+Spider Mode:Spider:minemen:false
+Block Rotation:AirStuck:false:false
+AntiVanilla:AirStuck:false:false
+NoSlowDown Mode:NoSlowDown:ncp:true
+Packet:NoSlowDown:true:true
+Only ClickGUI:InvMove:false:false
+Move Mouse:InvMove:false:false
+Teleport Mode:Teleport:vanilla:false
+Cubecraft Packets:Teleport:75.0:false
+FastLadder Mode:FastLadder:Vanilla:false
+Vanilla Speed:FastLadder:0.3:false
+TP Speed:FastLadder:2.0:false
+IceSpeed Mode:IceSpeed:Boost:false
+Max Boost:IceSpeed:2.5:false
+Boost Speed:IceSpeed:0.1:false
+Jump Ticks:IceSpeed:4.0:false
+SlimeJump Mode:SlimeJump:Horizon:false
+Clipper Mode:Clipper:Cubecraft:false
+Clipper Height:Clipper:3.0:false
+AntiVoid Mode:AntiVoid:cubecraft:false
+Fall Distance:AntiVoid:1.0:false
+Jesus Mode:Jesus:walk:false
+TP Mode:DeathTeleport:Horizon:false
+Ground:Strafe:false:false
+Air:Strafe:true:false
+HighJump Mode:HighJump:cubecraft:false
+(Cubecraft) Faster:HighJump:true:false
+(Cubecraft) Higher:HighJump:true:false
+Wait for Damage:HighJump:true:false
+Auto Disable:HighJump:false:false
+Glide Mode:Glide:normal:false
+Speed:TargetStrafe:0.0:false
+Range:TargetStrafe:3.5534883720930237:false
+ESP:TargetStrafe:true:false
+with Speed:TargetStrafe:true:false
+with Fly:TargetStrafe:false:false
+FreecamTP Mode:Freecam:Vailla:false
+Freecam TP:Freecam:false:false
+Freecam Speed:Freecam:1.0:false
+Freecam Timer:Freecam:1.0:false
+Teleport Delay:Freecam:250.0:false
+Design:ClickGUI:lirium:false
+Sound:ClickGUI:false:false
+Shader:ClickGUI:false:false
+Outline:ClickGUI:false:false
+Background Rainbow:ClickGUI:true:false
+Rainbow Effect:ClickGUI:true:false
+GuiRed:ClickGUI:255.0:false
+GuiGreen:ClickGUI:26.0:false
+GuiBlue:ClickGUI:42.0:false
+ESP Mode:ESP:csgo:true
+Throughwalls:ESP:false:true
+NameTags:ESP:true:true
+NameTag Health:ESP:true:true
+No NameTag on AttackInfo:ESP:true:true
+ShaderESP:ESP:true:true
+ChestESP:ESP:true:true
+Box:ESP:false:true
+ShaderESP Thickness:ESP:3.0:true
+ShaderESP Red:ESP:255.0:true
+ShaderESP Green:ESP:0.0:true
+ShaderESP Blue:ESP:255.0:true
+ShaderESP Rainbow:ESP:true:true
+Hotbar Mode:HUD:Lirium:true
+HUD Mode:HUD:new:true
+(New3) Animation:HUD:true:true
+Hotbar Outline:HUD:true:true
+Rainbow Name:HUD:false:true
+Rainbow Arraylist:HUD:true:true
+Notifications:HUD:true:true
+Build Version:HUD:true:true
+Early Access:HUD:false:true
+Position:HUD:true:true
+CPU Name:HUD:true:true
+Hotbar:HUD:true:true
+Logo:HUD:true:true
+Date:HUD:true:true
+FPS:HUD:true:true
+Protect Yourself:NameProtect:true:false
+Protect Friends:NameProtect:true:false
+Show Client Users:NameProtect:true:false
+High Items:ItemRenderer:false:true
+Use Item Size:ItemRenderer:false:true
+Item Size:ItemRenderer:1.0:true
+Blockhit Animation:Animations:1.7.10:true
+Slowdown:Animations:4.0:true
+Use Slowdown:Animations:true:true
+SwingAnimation:Animations:false:true
+y-Positon:Scoreboard:127.0:true
+Left:Scoreboard:false:true
+On Module enable:Notifications:true:false
+On Module disable:Notifications:true:false
+On AutoPlay new round:Notifications:true:false
+Sound on Module Toggle:Notifications:false:false
+Bottom Line:Notifications:true:false
+Time Mode:DayTime:night:false
+X:Indicator:8.0:false
+Y:Indicator:125.0:false
+TabGui Mode:TabGui:new:false
+X:TabGui:5.0:false
+Y:TabGui:19.0:false
+X:Debugger:805.0:false
+Y:Debugger:325.0:false
+Logs:Debugger:7.0:false
+Nofall Mode:NoFall:mlg:false
+FastUse Mode:FastUse:Instant:false
+OpenInv:InvCleaner:true:true
+Block Stacks:InvCleaner:10.0:true
+Delay:InvCleaner:151.0:true
+SortInventory:InvCleaner:false:true
+Random Delay:ChestStealer:true:false
+Delay:ChestStealer:122.0:false
+Min Delay:ChestStealer:151.0:false
+Max Delay:ChestStealer:174.0:false
+Close when Empty:ChestStealer:true:false
+Dont Steal Useless Items:ChestStealer:true:false
+ChestAura Range:ChestAura:5.0:false
+ChestAura Delay:ChestAura:1.0:false
+FastHeal Mode:FastHeal:health:false
+Speed:FastHeal:9.0:false
+Random Speed:FastHeal:false:false
+Radius:Fucker:4.0:false
+Rotations:Fucker:true:false
+Instant:Fucker:true:false
+Eggs:Fucker:true:false
+Delay:Spammer:15.0:false
+Bypass:Spammer:true:false
+Scaffold Mode:Scaffold:cubecraft:false
+ScaffoldTower Mode:Scaffold:None:false
+Delay:Scaffold:168.0:false
+KeepRotations:Scaffold:true:false
+Block Number:Scaffold:false:false
+Keep Sprint:Scaffold:false:false
+SafeWalk:Scaffold:true:false
+FastStop:Scaffold:false:false
+Silent:Scaffold:false:false
+NoSwing:Scaffold:true:false
+Jitter:Scaffold:false:false
+Tower:Scaffold:false:false
+Legit Silent:Scaffold:true:false
+Eagle:Scaffold:false:false
+KeepY:Scaffold:false:false
+Air Sprint:Scaffold:false:false
+Move Fix:Scaffold:false:false
+Draw:Scaffold:false:false
+Blink mode:Blink:horizonflag:false
+AutoPlay Mode:AutoPlay:cubecraft:true
+AutoPlay Delay:AutoPlay:0.0:true
+AutoGG:AutoPlay:true:true
+Sound:AutoPlay:false:true
+Tower Mode:Tower:NCP:false
+Block Number:Tower:false:false
+Inventory:AntiDesync:true:false
+Unstuck:AntiDesync:true:false
+Timer Multiplier:Timer:0.6051020408163266:false
+Paper Challenge:AutoHypixel:true:false
+Disabler Mode:Disabler:cubecraft semi:false
+Lagback Mode:Disabler:tp back:false
+Lagback Delay:Disabler:10.0:false
+(Stop Movement) Speed:Disabler:-0.17293233082706772:false
+(TP Back) Speed:Disabler:-0.09999999999999998:false
+(Horizon) Rotation Fix:Disabler:true:false
+(Watchdog) C13:Disabler:true:false
+ACR - Fly:Disabler:true:false
+ACR - Timer:Disabler:false:false
+ACROld - Movement:Disabler:false:false
+(Cubecraft Semi) Faster:Disabler:false:false
+(Cubecraft Semi) Timer:Disabler:0.29776119402985074:false
+StaffDetector Mode:StaffDetector:PlayMC:false
+Draw under Crosshair:StaffDetector:true:false
+Crasher Mode:ServerCrasher:test:false
+Packets:ServerCrasher:1.0:false
+AutoBan Mode:AutoBan:Cubecraft:false
+#loadmessage:true
+#message:Adolf
