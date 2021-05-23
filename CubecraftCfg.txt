@@ -294,4 +294,4 @@ Crasher Mode:ServerCrasher:test:false
 Packets:ServerCrasher:1.0:false
 AutoBan Mode:AutoBan:Cubecraft:false
 #loadmessage:true
-#message:Adolf
+#message:Last Update (23.05.21) | Undetected
